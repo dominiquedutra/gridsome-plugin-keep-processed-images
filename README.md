@@ -1,0 +1,1 @@
+# gridsome-plugin-keep-processed-images
