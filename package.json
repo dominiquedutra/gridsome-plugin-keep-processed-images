@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.0.0",
   "name": "gridsome-plugin-keep-processed-images",
   "description": "Gridsome plugin for keeping processed images between builds",
   "homepage": "https://github.com/dominiquedutra/gridsome-plugin-keep-processed-images#readme",
